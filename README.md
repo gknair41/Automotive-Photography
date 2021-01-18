@@ -8,23 +8,23 @@ This website will be useful for those who want to get started with web developme
 
 Have fun....Happy Coding.. :)
 
-![](Screenshots/H1.jpg)
-![](Screenshots/H2.jpg)
+![](Screenshots/H1.png)
+![](Screenshots/H2.png)
 
-![](Screenshots/H3.jpg)
+![](Screenshots/H3.png)
 
-![](Screenshots/H4.jpg)
-![](Screenshots/L1.jpg)
-![](Screenshots/L2.jpg)
+![](Screenshots/H4.png)
+![](Screenshots/L1.png)
+![](Screenshots/L2.png)
 ![](Screenshots/L3.jpg)
 
-![](Screenshots/H5.jpg)
-![](Screenshots/W1.jpg)
+![](Screenshots/H5.png)
+![](Screenshots/W1.png)
 
-![](Screenshots/W2.jpg)
+![](Screenshots/W2.png)
 
-![](Screenshots/W3.jpg)
-![](Screenshots/H6.jpg)
+![](Screenshots/W3.png)
+![](Screenshots/H6.png)
 
 
 
