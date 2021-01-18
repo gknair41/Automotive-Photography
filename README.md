@@ -17,7 +17,7 @@ Have fun....Happy Coding.. :)
 ![](Screenshots/L1.png)
 ![](Screenshots/L2.png)
 
-![](Screenshots/L3s.png)
+![](Screenshots/L3.png)
 
 ![](Screenshots/H5.png)
 ![](Screenshots/W1.png)
